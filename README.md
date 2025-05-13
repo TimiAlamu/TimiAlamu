@@ -7,10 +7,10 @@ I'm a Cloud Engineer (in training), a senior Product Designer, I am also a Conte
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning at that I can learn to become a highly sought after Cloud Engineer
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Engineer, DevOps, Product Design, Product Management
+- 💡 Fun fact:  I'm a passionate Product Manager who thrives at the intersection of user needs, business goals, and technical possibilities. 
+- 🌱 I specializes in translating business goals and user needs into scalable product solutions.
+- 😊 I have a background in design, engineering, marketing... which helps solve me to real problems and create lasting impact.
+- 💼 Job interests: Artificial Intelligence, DevOps, Product Design, Product Strategy
 - 📫 You can [view my resume](#) and contact me by emailing mailto:timitechie@gmail.com.
 
 ---
